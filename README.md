@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Jiri Sebek.
 - 👀 I’m interested in data science, machine learning, deep learning and AI.
 - 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on large data mining in political science or large data modelling in experimental philosophy.
+- 💞️ I’m looking to collaborate on data mining in political science or  data modelling in experimental philosophy.
+- ⚒️ Eventually, I want to transition to Data Science full time,
+- 🌏 Travel the world, and work from remote places.
 - 📫 Reach me at sebekj@gmail.com.
 
 <!---
