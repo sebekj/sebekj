@@ -1,10 +1,28 @@
-- 👋 Hi, I’m Jiri Sebek.
-- 👀 I’m interested in data science, machine learning, deep learning and AI.
-- 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on data mining in political science or  data modelling in experimental philosophy.
-- ⚒️ Eventually, I want to transition to Data Science full time,
-- 🌏 Travel the world, and work from remote places.
-- 📫 Reach me at sebekj@gmail.com.
+# Jiří Šebek
+
+Hello! I'm Jiří, a public policy professional and researcher with a PhD in political science, now transitioning into data science and machine learning. I specialize in the intersection of computational methods and social systems — from natural language processing to ethical AI.
+
+Currently focusing on:
+- Applied machine learning (especially NLP and interpretability)
+- Statistical modeling and data cleaning
+- Python, R, and Jupyter workflows
+- Open science and reproducible research
+
+Recent coursework includes:
+- Mathematics for Machine Learning (Imperial College London, Coursera)
+- Data Science specializations (Johns Hopkins, IBM, Stanford)
+- Projects in corpus analysis, political data mining, and PCA
+
+I’m especially interested in collaborative projects at the boundary of data and society — such as:
+- Analyzing political systems through networked data
+- Experimental philosophy or ethics of algorithmic systems
+- Responsible applications of AI in governance
+
+My repositories will reflect ongoing study and application as I prepare for formal graduate training in data science. I’m currently applying to MSc programs at:
+- University of Illinois Urbana–Champaign (MCS-DS)
+- Imperial College London (MSc in Machine Learning and Data Science)
+
+📫 Feel free to reach out at: **sebekj@gmail.com**
 
 <!---
 sebekj/sebekj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
