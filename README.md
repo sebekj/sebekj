@@ -22,7 +22,7 @@ My repositories will reflect ongoing study and application as I prepare for form
 - University of Illinois Urbana–Champaign (MCS-DS)
 - Imperial College London (MSc in Machine Learning and Data Science)
 
-📫 Feel free to reach out at: **sebekj@gmail.com**
+Feel free to reach out at: **sebekj@gmail.com**
 
 <!---
 sebekj/sebekj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
