@@ -20,7 +20,7 @@ I’m especially interested in collaborative projects at the boundary of data an
 
 My repositories will reflect ongoing study and application as I prepare for formal graduate training in data science. I’m currently applying to MSc programs at:
 - University of Illinois Urbana–Champaign (MCS-DS)
-- Imperial College London (MSc in Machine Learning and Data Science)
+- University of Bologna (MSc in Statistical Sciences (Data Science))
 
 Feel free to reach out at: **sebekj@gmail.com**
 
