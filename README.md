@@ -18,9 +18,7 @@ I’m especially interested in collaborative projects at the boundary of data an
 - Experimental philosophy or ethics of algorithmic systems
 - Responsible applications of AI in governance
 
-My repositories will reflect ongoing study and application as I prepare for formal graduate training in data science. I’m currently applying to MSc programs at:
-- University of Illinois Urbana–Champaign (MCS-DS)
-- University of Bologna (MSc in Statistical Sciences (Data Science))
+My repositories will reflect ongoing study and application as I prepare for formal graduate training in data science.
 
 Feel free to reach out at: **sebekj@gmail.com**
 
