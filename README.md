@@ -191,7 +191,7 @@ What excites me most is the convergence of **interpretability, ethics and impact
 
 **Contact:**  
 **Email**: sebekj@gmail.com  
-**LinkedIn**: [jiri-sebek-2295463](https://linkedin.com/in/jiri-sebek)  
+**LinkedIn**: [jiri-sebek](https://linkedin.com/in/jiri-sebek)  
 **Bluesky**: [@sebekjphd.bsky.social](https://bsky.app/profile/sebekjphd.bsky.social)
 
 ---
