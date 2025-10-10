@@ -3,7 +3,7 @@
 > **Bridging 20 years of policy expertise with cutting-edge data science**  
 > PhD in Political Science | BSc Computer Science (in progress) | Prague-based
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/jiri-sebek-2295463)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/jiri-sebek)
 [![Email](https://img.shields.io/badge/Email-sebekj%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sebekj@gmail.com)
 [![Bluesky](https://img.shields.io/badge/Bluesky-%40sebekjphd-1DA1F2?style=flat&logo=bluesky)](https://bsky.app/profile/sebekjphd.bsky.social)
 
@@ -191,7 +191,7 @@ What excites me most is the convergence of **interpretability, ethics and impact
 
 **Contact:**  
 **Email**: sebekj@gmail.com  
-**LinkedIn**: [jiri-sebek-2295463](https://linkedin.com/in/jiri-sebek-2295463)  
+**LinkedIn**: [jiri-sebek-2295463](https://linkedin.com/in/jiri-sebek)  
 **Bluesky**: [@sebekjphd.bsky.social](https://bsky.app/profile/sebekjphd.bsky.social)
 
 ---
